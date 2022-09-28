@@ -47,7 +47,7 @@
             <h4>Godwin – Head of Curriculum and Learning.</h4>
             <h3>I am delighted to be called upon as a reference for Fatima. She always behaves professionally.</h3> 
           </div><br><br><br>
-        </div>
+        </div><br>
         <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators"
           data-bs-slide="prev">
           <span class="carousel-control-prev-icon" aria-hidden="true"></span>
@@ -81,6 +81,7 @@ h4 {
 }
 main {
     margin-left: 270px;
+    padding: 0px;
 }
 
 /* .container {

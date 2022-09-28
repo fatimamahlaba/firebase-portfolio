@@ -105,5 +105,6 @@ h3{
 }
 main {
     margin-left: 270px;
+    padding: 90px;
 }
 </style>
