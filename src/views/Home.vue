@@ -8,7 +8,7 @@
   <h3 class="hello">Hello, my name is <span class="name">Fatima Mahlaba</span></h3>
   <h3 class="my-profession">I am <span class="typing">{{ word }}</span></h3>
   <p>That is passionate about coding.</p>
-  <a href="/contact" class="btn hire-me">Hire Me</a>
+  <a href="#contact" class="btn hire-me">Hire Me</a>
   <div style="text-align:center;">
   <ul>
   <li>
