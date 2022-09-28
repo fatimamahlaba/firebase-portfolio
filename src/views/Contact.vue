@@ -81,10 +81,10 @@ export default {
 </script>
 
 <style scoped>
-.container {
+/* .container {
 padding: 100px;
 margin-top: 10px;
-}
+} */
 .column {
   float: left;
   width: 33.33%;
@@ -156,7 +156,7 @@ border-radius: 25px;
     background: green;
     position: absolute;
     color: white;
-    left: 380px;
+    left: 450px;
  
 }
 textarea.form-control {

@@ -19,7 +19,7 @@
    <div class="job-description">Internship</div>
   </div>
    <div class="job-box">
-   <div class="job-title">Cornerstone Institute</div>
+   <div class="job-title">Cornerstone Institute</div><br>
    <div class="job-date">20 June 2022 - 20 July 2022 (Contract)</div>
   
   </div>
