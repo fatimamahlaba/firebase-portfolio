@@ -8,7 +8,7 @@
   <div class="row">
   <div class="text col-md-7 sm-12">
   <h3>Hi There! I am Fatima Mahlaba</h3><br>
-  <p>I am a 25 year old Web Developer from Cape Town, South Africa.I am a passionate, hard-working and happy individual. As an extrovert, I make friends very easily because I always feel comfortable around new people as well as new environments. I am a bubbly person who is always available to assist anyone who might need my help. I am an explorer of life. Furthermore, I love travelling and being adventurous, and I love learning new things.</p><br>
+  <p>I am a 26 year old Web Developer from Cape Town, South Africa.I am a passionate, hard-working and happy individual. As an extrovert, I make friends very easily because I always feel comfortable around new people as well as new environments. I am a bubbly person who is always available to assist anyone who might need my help. I am an explorer of life. Furthermore, I love travelling and being adventurous, and I love learning new things.</p><br>
   <h5>HTML</h5>
   <div class="progress">
   <div class="progress-bar bg-success" role="progressbar" aria-valuenow="25" aria-valuemin="0" aria-valuemax="100" style="width: 90%;">
@@ -39,7 +39,7 @@
   <div class="progress-bar bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
   </div>
   </div>
-  <h5>TAILWIND</h5>
+  <h5>REACT</h5>
   <div class="progress">
   <div class="progress-bar bg-success" role="progressbar" aria-valuenow="50" aria-valuemin="0" aria-valuemax="100" style="width: 60%;">
   </div>
