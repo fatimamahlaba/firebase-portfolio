@@ -196,9 +196,7 @@ ul li a:hover span:first-child {
     transform-origin: left;
     transition: transform .5s;
 }
-.github:hover span{
-    background: green;
-}
+
 .home-img:before {
     content: "";
     position: absolute;

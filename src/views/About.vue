@@ -107,4 +107,14 @@ main {
     margin-left: 270px;
     padding: 90px;
 }
+
+@media only screen and (min-width: 768px) {
+  /* For desktop: */
+
+  main {
+    margin-left: 270px;
+    padding: 90px;
+}
+
+}
 </style>
